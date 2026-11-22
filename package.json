@@ -1,0 +1,16 @@
+{
+  "name": "env-drift-demo",
+  "version": "1.0.0",
+  "description": "Interactive demo for @gyraptor/env-drift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GYRaptor <gyanendrasingh7521@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@gyraptor/env-drift": "^1.0.0"
+  }
+}
