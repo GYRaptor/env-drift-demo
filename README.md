@@ -2,7 +2,7 @@
 
 An interactive web demo demonstrating [`@gyraptor/env-drift`](https://www.npmjs.com/package/@gyraptor/env-drift), a lightweight utility to find drift between `.env.example` and `.env` files (missing, empty, and extra keys).
 
-Live demo: (added after deploy)
+Live demo: https://env-drift-demo.vercel.app
 
 ## Features
 
